@@ -1,0 +1,21 @@
+#personal-info {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    padding: 2px;
+}
+
+#summary, 
+#skills,
+#code-exampl,
+#work-experience,
+#education,
+#english-level {
+    border-bottom: 1px solid;
+    padding: 2px;
+}
+
+#photo {
+    width: 200px;
+    margin-left: 20px;
+}
+
